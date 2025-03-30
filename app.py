@@ -1277,4 +1277,4 @@ with st.expander("📅 Sărbători Legale"):
 # Application footer
 st.markdown("---")
 st.markdown("### 📊 Analizor Prezență Angajați v3.0")
-st.markdown("Dezvoltat pentru monitorizarea și analiza prezenței angajaților")
+###st.markdown("Dezvoltat pentru monitorizarea și analiza prezenței angajaților")
